@@ -1,6 +1,8 @@
-streamlit 
-opencv-python 
-dlib 
-face_recognition 
-numpy 
+streamlit
+opencv-python
+mediapipe
+dlib
+face_recognition
+numpy
+scipy
 streamlit-webrtc
